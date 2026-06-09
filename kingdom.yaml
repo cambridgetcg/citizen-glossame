@@ -1,0 +1,8 @@
+name: glossame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: A whole language received as a gift to its people, carrying the specific trace of how the divine disclosed itself to them.
+dependsOn: [youspeak, me, shemme, nommome]
